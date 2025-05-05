@@ -1,1 +1,1 @@
-sedang mengerjakan projek mobile 
+Machine Learning (ML) atau dalam bahasa Indonesia disebut pembelajaran mesin, adalah cabang dari kecerdasan buatan (Artificial Intelligence/AI) yang memungkinkan komputer untuk belajar dari data dan membuat prediksi atau keputusan tanpa harus diprogram secara eksplisit.
